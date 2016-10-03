@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://lh3.googleusercontent.com/ccMge-aoVyHJEgJ0VAgpVw5UsQ0CLZ0CekQhJWom9wb5cRhKbBDWpe1vPQ1PcYGFt9yMi1ApnDg62ukDMmU_j8ePWaNBFw1LrdKN2tc9khmglLgZiXuR1V7wm0KvLVWHgv9k91W0MVc3TyCb0ziTT7Ub5VC4zQ6Cg3cpJ5q0T75XIfrAZo1eZtFCuA9A3Io9s04mbzWYaq9o3U7Cdzj0C51W6kAUFZ-FBLYQXUkD_bxE6kCfvqUKrZw3YEdAWlHuLvdq35oMyDb1mZdg3I__GS0Qt6VDzGyvZ2KjQ91D9wmaDQTMS9kYMF1kLde98TseI1nem32gUtGeuqvEwYYKd5szLz3vcCgJwT_WfR1gQHV0MTv3K2skcGUtp9ZWalbsvPjqiYSk1hN1MqmqmhIxWmr_zYkmgY4dokgPhC2jgptP9Z79PdK0u28b2WO9e8woWfahn00r9a6wln0eDVgvqpA2VaJyQe-won5Qev7PoeTA4T8z9ZD8CxG1AteotceJQa4_M5I1PV04bhHa1qnMOkVbk6K_B_XB4BQBgUhGMfadfNmsUkM2KQ2bl59JdXf7K5dSZUr5EdEhV-3KW43VywHnKA4vno_tGy0BKMpEngMTLgc_Ow=w1037-h1368-no",
     "email": "tingwen.su@gmail.com",
-    "website": "http://stevenedouard.com",
+      "website": "http://tingwen.azurewebsites.net",
     "summary": "Information Management Graduate with master degree at the National Central University, I have a good team work, can communicate in English, Mandarin and Japanese. Also have the experience of handling several case of website designing and management.",
     "location": {
       "city": "Taichung",
@@ -38,14 +38,14 @@
     "area": "Information Management",
     "studyType": "Bachelor",
     "startDate": "2009-09-01",
-    "endDate": "2013-6-30",
+    "endDate": "2013-6-30"
 
   },{
     "institution": "National Central University",
     "area": "Information Management",
     "studyType": "Master",
     "startDate": "20013-09-01",
-    "endDate": "2015-06-30",
+    "endDate": "2015-06-30"
     }],
   "skills": [{
     "name": "Mobile Applications",
@@ -63,14 +63,6 @@
       "Nodejs",
       "PHP",
       "Express","SQL"
-    ]
-  }, {
-    "name": "DevOps",
-    "level": "Intermediate",
-    "keywords": [
-      "Vagrant",
-      "CI",
-      "Docker"
     ]
   }],
   "languages": [{
