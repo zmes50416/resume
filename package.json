@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "resume-cli": "^0.3.10"
+  },
+  "engines":{
+    "npm": "3.9.5"
   }
 }
