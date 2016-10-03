@@ -27,7 +27,7 @@ IF %ERRORLEVEL% NEQ 0 (
 setlocal enabledelayedexpansion
 
 SET ARTIFACTS=%~dp0%..\artifacts
-NPM_CMD="\"$NODE_EXE\" \"$PROGRAMFILES\\npm\\3.9.5\\node_modules\\npm\\bin\\npm-cli.js\""
+SET NPM_CMD="\"$NODE_EXE\" \"$PROGRAMFILES\\npm\\3.9.5\\node_modules\\npm\\bin\\npm-cli.js\""
 IF NOT DEFINED DEPLOYMENT_SOURCE (
   SET DEPLOYMENT_SOURCE=%~dp0%.
 )
