@@ -2,10 +2,10 @@
   "basics": {
     "name": "Su Ting Wen",
     "label": "Software Engineer",
-    "picture": "http://tingwen.azurewebsites.net/2DAvatar.jpg",
+    "picture": "http://tingwen.azurewebsites.net/Avatar.png",
     "email": "tingwen.su@gmail.com",
     "website": "http://tingwen.azurewebsites.net",
-    "summary": "Information Management Graduate with master degree at the National Central University, I have a good team work, can communicate in English, Mandarin and Japanese. Also have the experience of handling several case of website designing and management.",
+    "summary": "Master of Business Administration Graduate at the Information Management Department of National Central University, I am a self-taught software developer with passion in software development. I had accomplished several case of website and mobile app’s designing by using PHP and Java. I also have the ability to work effectively in the team, not only I have the experience with version control system like Git but also can speak multiple language.",
     "location": {
       "city": "Taichung",
       "countryCode": "TW",
@@ -23,16 +23,27 @@
   },
   "work": [{
     "company": "ROC Army",
-    "position": "Information Private",
+    "position": "Information technology specialist",
     "website": "http://www.mnd.gov.tw/",
     "startDate": "2015-09-15",
     "endDate": "2016-08-18",
-    "summary": "IT service in the department, including Information Security, Server Management, website management, developed the website and  software using PHP & Node.js.",
+    "summary": "responsible for maintaining, processing and troubleshooting military computer systems/operations in the military base.",
     "highlights": [
-      "Help office going paperless by offering online repair system using Bootstrap, jQuery and PHP",
-      "Develop desktop mini dictionary and meeting notification service to increase productivity by Node.js and electron frame work."
+      "Helped office going paperless by offering online repair system using Bootstrap, jQuery and PHP.",
+      "Developed desktop mini dictionary and meeting notification service to increase productivity by Node.js and electron frame work."
     ]
-  }],
+  },{
+    "company":"NCU, Information Management Department",
+    "position":"MIS",
+    "website":"http://im.mgt.ncu.edu.tw/",
+    "startDate":"2013-09-01",
+    "endDate":"2015-06-01",
+    "summary":"IT manager of Information Management department in NCU (National Central University).",
+    "highlights":[
+      "Setting the Information security of Office ’s Servers (including Windows Server and Linux OS), patch up vulnerability in server and code.",
+      "Maintain database and front-end website contents also Implement new features for website service."
+    ]
+    }],
   "education": [{
     "institution": "National Changhua University of Education",
     "area": "Information Management",
